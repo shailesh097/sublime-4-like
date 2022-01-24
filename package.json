@@ -2,7 +2,7 @@
     "name": "sublime-4-like",
     "displayName": "Sublime4 Like",
     "description": "Sublime Text 4 like theme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "maakura",
     "engines": {
         "vscode": "^1.63.0"
@@ -19,7 +19,6 @@
         "sublime text theme",
         "sublime like theme"
     ],
-
     "categories": [
         "Themes"
     ],
