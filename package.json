@@ -8,8 +8,18 @@
         "vscode": "^1.63.0"
     },
     "repository": {
-        "type": "git"
+        "type": "git",
+        "url": "https://github.com/shailesh097/sublime-text-4-theme.git"
     },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "sublime text 4 theme",
+        "sublime theme",
+        "sublime text theme",
+        "sublime like theme"
+    ],
+
     "categories": [
         "Themes"
     ],
