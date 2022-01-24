@@ -1,0 +1,25 @@
+{
+    "name": "sublime-4-like",
+    "displayName": "Sublime4 Like",
+    "description": "Sublime Text 4 like theme",
+    "version": "0.0.1",
+    "publisher": "maakura",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "repository": {
+        "type": "git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sublime4 Like",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sublime4 Like-color-theme.json"
+            }
+        ]
+    }
+}
