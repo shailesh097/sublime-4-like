@@ -8,18 +8,7 @@
 		"sideBarTitle.foreground": "#22262A",
 		"statusBar.background": "#333333"
 		},
-	"tokenColors": [
-		{
-			"name": "SQL Query",
-			"scope": [
-				"",
-				
-			],
-			"settings": {
-				"foreground": "#C695C6",
-				
-			}
-		}, 
+	"tokenColors": [ 
 		{
 			"name": "Constant",
 			"scope": [
